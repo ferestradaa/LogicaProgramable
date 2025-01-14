@@ -1,4 +1,4 @@
-# Reto Logica Programable (TE2002B.101)
+# Diseño con Logica Programable (TE2002B.101)
 
 - Fernando Estrada Silva // A01737094
 - Angel Estrada Centeno // A01732584
